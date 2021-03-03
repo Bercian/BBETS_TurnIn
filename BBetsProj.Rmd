@@ -1,0 +1,16 @@
+---
+title: "BBets"
+author: "DrJ"
+date: "3/2/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tigerstats)
+```
+
+```{r}
+URN = 1:365
+```
+
